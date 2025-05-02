@@ -29,7 +29,7 @@ const client = new Client({
   partials: [Partials.GuildMember, Partials.Message, Partials.Reaction],
 });
 
-const TOKEN = "MTM2Nzk4NzI4NDU0NDE5MjY3Mw.GOpC30.5KXJ3Cadz8r9WjUwQb5WJZkpnJ9v8xJCLTosbw";
+const TOKEN = "MTM2Nzk4NzI4NDU0NDE5MjY3Mw.GK_-Re.2uKnO9t9s5G0A1ndvkl2fvvS51KdIqCNkm71iM";
 const CLIENT_ID = "1367987284544192673";
 const GUILD_ID = "1366171798210609193";
 
